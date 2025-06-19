@@ -37,9 +37,6 @@ A responsive web application that allows users to search for any city and view t
 ## Author
 Naniveesh Raj – @nanny04
 
-## License
-This project is licensed under the MIT License.
-
 ##  Getting Started
 
 1. **Clone the repository**
