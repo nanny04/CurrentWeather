@@ -52,3 +52,8 @@ Add your API key in script.js where indicated:
 ```javascript
 const apiKey = "YOUR_API_KEY_HERE";
 
+## Author
+Naniveesh Raj – @nanny04
+
+## License
+This project is licensed under the MIT License.
