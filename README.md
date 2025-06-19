@@ -53,4 +53,3 @@ Sign up and get your free API key.
 Add your API key in script.js where indicated:
 ```javascript
 const apiKey = "YOUR_API_KEY_HERE";
-
