@@ -34,6 +34,11 @@ A responsive web application that allows users to search for any city and view t
 -  **Responsive Design**  
   Optimized for desktops, tablets, and mobile screens.
 
+## Author
+Naniveesh Raj – @nanny04
+
+## License
+This project is licensed under the MIT License.
 
 ##  Getting Started
 
@@ -52,8 +57,3 @@ Add your API key in script.js where indicated:
 ```javascript
 const apiKey = "YOUR_API_KEY_HERE";
 
-## Author
-Naniveesh Raj – @nanny04
-
-## License
-This project is licensed under the MIT License.
