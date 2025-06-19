@@ -35,7 +35,7 @@ A responsive web application that allows users to search for any city and view t
   Optimized for desktops, tablets, and mobile screens.
 
 
-## 🚀 Getting Started
+##  Getting Started
 
 1. **Clone the repository**
    ```bash
@@ -51,5 +51,4 @@ Sign up and get your free API key.
 Add your API key in script.js where indicated:
 ```javascript
 const apiKey = "YOUR_API_KEY_HERE";
-
 
