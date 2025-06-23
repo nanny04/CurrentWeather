@@ -4,7 +4,7 @@ A responsive web application that allows users to search for any city and view t
 
 ##  Live Demo
 
-🔗 [View Live](https://nanny04.github.io/CurrentWeather/)
+ [View Live](https://nanny04.github.io/CurrentWeather/)
 
 
 ##  Tech Stack
