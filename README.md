@@ -36,8 +36,7 @@ A responsive web application that allows users to search for any city and view t
 
 ## Author
 Naniveesh Raj – @nanny04
-Connect with me on [GitHub](https://github.com/nanny04), [LinkedIn](https://www.linkedin.com/in/nadimpelli-naniveeshraj/)
-
+Connect with me on [GitHub](https://github.com/nanny04) | [LinkedIn](https://www.linkedin.com/in/nadimpelli-naniveeshraj/)
 ##  Getting Started
 
 1. **Clone the repository**
