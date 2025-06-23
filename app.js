@@ -40,6 +40,7 @@ async function checkWeather(cityName){
 
 searchBtn.addEventListener('click', () => {
     checkWeather(searchBox.value)
+    searchBox.value = ''
 })
 
 document.addEventListener('keydown', (e) => {
